@@ -1,0 +1,66 @@
+.carct-main {
+    height: 1080px;
+    background-color: #a460d1;
+    margin-top: -380px;
+}
+
+.trip {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 200px;
+}
+
+.trip-1 {
+    margin-right: 50px;
+}
+
+.trip-2 {
+    margin-left: 50px;
+}
+
+.trip-text {
+    position: relative;
+    top: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.trip-title {
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    text-decoration: underline;
+}
+
+.carct {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.carct span {
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+}
+
+.carct-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.carct-2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.carct-3 {
+    display: flex;
+    flex-direction: column;
+}

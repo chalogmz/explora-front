@@ -1,0 +1,35 @@
+.expr-banner img {
+    position: relative;
+    margin: 0;
+}
+
+.expr-banner h2 {
+    position: absolute;
+    top: 250px;
+    left: 410px;
+    font-size: 150px;
+    font-weight: 900;
+    line-height: 155px;
+    color: #fff;
+}
+
+.expr-banner span {
+    position: relative;
+    font-size: 23px;
+    font-weight: 400;
+    color: #fff;
+    top: -400px;
+    left: 580px;
+}
+
+.expr-banner-ws img {
+    top: -350px;
+    left: 900px;
+}
+
+.expr-banner-ws span {
+    font-size: 23px;
+    font-weight: 600;
+    left: 730px;
+    top: -320px;
+}

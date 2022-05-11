@@ -1,0 +1,62 @@
+.nav-container {
+    height: 85px;
+    background-color: #EDEDED;
+    display: flex;
+    overflow: hidden;
+}
+
+.logo-nav {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    flex: 1;
+}
+
+.nav-menu {
+    flex: 2;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 60px;
+}
+
+.nav-option p {
+    margin-left: 20px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+}
+
+.nav-option p::after {
+    position: absolute;
+    content: "";
+    width: 0%;
+    height: 4px;
+    background-color: #f45858;
+    left: 50%;
+    bottom: -10px;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-option p:hover {
+    cursor: pointer;
+}
+
+.nav-option p:hover::after {
+    cursor: pointer;
+    width: 100%;
+    left: 0;
+}
+
+.iconify {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.nav-line {
+    height: 5px;
+    width: 100%;
+    background-color: #f45858;
+}

@@ -1,0 +1,81 @@
+.obj-container {
+    margin-top: -275px;
+}
+
+.obj-container img {
+    position: relative;
+}
+
+.obj-title h2 {
+    position: absolute;
+    color: #a460d1;
+    font-family: 'Open Sans';
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 55px;
+    letter-spacing: -3px;
+    width: 60%;
+    margin-top:-950px;
+    left: 750px;
+    text-decoration: underline;
+}
+
+.obj-1 {
+    position: relative;
+    display: flex;
+    top: -750px;
+    left: 900px;
+}
+
+.obj-1 span {
+    font-family: 'Open Sans';
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: -2px;
+    color: #a460d1;
+}
+
+.obj-1 img {
+    margin-right: 15px;
+}
+
+.obj-2 {
+    display: flex;
+    position: relative;
+    top: -700px;
+    left: 900px;
+}
+
+.obj-2 span {
+    font-family: 'Open Sans';
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: -2px;
+    color: #a460d1;
+}
+
+.obj-2 img {
+    margin-right: 15px;
+}
+
+.obj-3 {
+    display: flex;
+    position: relative;
+    top: -650px;
+    left: 900px;
+}
+
+.obj-3 span {
+    font-family: 'Open Sans';
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: -2px;
+    color: #a460d1;
+}
+
+.obj32 img {
+    margin-right: 15px;
+}

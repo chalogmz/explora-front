@@ -1,0 +1,43 @@
+.footer-container {
+    height: 270px;
+    background-color: #f45858;
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo {
+    margin-left: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo img {
+    margin-right: 70px;
+}
+
+.foot-logo-1 {
+    width: 15%;
+}
+
+.footer-location {
+    display: flex;
+    flex-direction: column;
+    margin-left: -180px;
+}
+
+.footer-content-adress {
+    display: flex;
+    flex-direction: column;
+}
+
+.foot-title span {
+    font-size: 25px;
+    font-weight: 800;
+    color: #fff;
+}
+
+.footer-content-adress span {
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+}
